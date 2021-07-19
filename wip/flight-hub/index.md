@@ -13,20 +13,52 @@ ms.prod: w10
 
 # Flight Hub
 
-Welcome to Flight Hub! Use this dashboard to quickly identify the latest Windows Insider Preview Builds for PC, Server, and IoT. You can also look up the status of the SDK and ISO images.
+Welcome to Flight Hub! Use this dashboard to quickly identify the latest Windows Insider Preview Builds. You can also see SDK and ISO releases.
 
-**ANNOUNCEMENT:** The Insider rings are becoming channels! [Read our blog post here to learn more about channels.](https://blogs.windows.com/windowsexperience/2020/06/15/introducing-windows-insider-channels/). Note that for legacy purposes, we will keep the ring names for older Windows 10 releases referenced here and will use the new channel naming for new releases and Active Development Branch builds going forward.
+## Active Development Builds of Windows 11
+Builds from the active development branch simply reflect the latest work in progress code from our engineers.
 
-## Active Development Builds of Windows 10
-
-Moving forward, the Dev Channel will receive builds directly from the active development branch, and new features will show up in these builds first. While features in the active development branch may be slated for a future Windows 10 release, they are no longer matched to a specific Windows 10 release. This means that builds from the active development branch simply reflect the latest work in progress code from our engineers.
+Please read [this blog post](https://blogs.windows.com/windows-insider/2021/06/24/preparing-for-insider-preview-builds-of-windows-11/) on how the Windows 11 hardware requirements may impact flighting on your PC and your options to get started.
 
 | Build | Dev | SDK | ISO |
 |-------|------|------|
-|21301|[**1/27/2021**](https://blogs.windows.com/windows-insider/2021/01/27/announcing-windows-10-insider-preview-build-21301/)|||
+|22000.71|[**7/15/2021**](https://blogs.windows.com/windows-insider/2021/07/15/announcing-windows-11-insider-preview-build-22000-71/)|[**7/15/2021**](https://aka.ms/windowsinsidersdk)||
+|22000.65|[7/8/2021](https://blogs.windows.com/windows-insider/2021/07/08/announcing-windows-11-insider-preview-build-22000-65/)|||
+|22000.51|[6/28/2021](https://blogs.windows.com/windows-insider/2021/06/28/announcing-the-first-insider-preview-for-windows-11/)|6/28/2021||
+
+## Next Windows 10 Feature Update (21H2)
+
+Windows 10, version 21H2, will be the next feature update for Windows 10 - [see this blog post for details](https://blogs.windows.com/windowsexperience/2021/07/15/introducing-the-next-feature-update-to-windows-10-21h2/).
+
+| Build | Release Preview | ISO 
+|------|------|------|
+|19044.1147|[**7/15/2021**](https://blogs.windows.com/windows-insider/2021/07/15/announcing-windows-10-insider-preview-build-19044-1147-21h2/)||
+
+## Pre-Windows 11 Active Development Builds
+
+ Builds from the active development branch simply reflect the latest work in progress code from our engineers.
+
+| Build | Dev | SDK | ISO |
+|-------|------|------|
+|21390|[5/26/2021](https://blogs.windows.com/windows-insider/2021/05/26/announcing-windows-10-insider-preview-build-21390/)|||
+|21387|[5/21/2021](https://blogs.windows.com/windows-insider/2021/05/21/announcing-windows-10-insider-preview-build-21387/)|||
+|21382|[5/14/2021](https://blogs.windows.com/windows-insider/2021/05/14/announcing-windows-10-insider-preview-build-21382/)|||
+|21376|[5/6/2021](https://blogs.windows.com/windows-insider/2021/05/06/announcing-windows-10-insider-preview-build-21376/)|||
+|21370|[4/29/2021](https://blogs.windows.com/windows-insider/2021/04/29/announcing-windows-10-insider-preview-build-21370/)|||
+|21364|[4/21/2021](https://blogs.windows.com/windows-insider/2021/04/21/announcing-windows-10-insider-preview-build-21364/)|||
+|21359|[4/14/2021](https://blogs.windows.com/windows-insider/2021/04/14/announcing-windows-10-insider-preview-build-21359/)|||
+|21354|[4/7/2021](https://blogs.windows.com/windows-insider/2021/04/07/announcing-windows-10-insider-preview-build-21354/)||[**4/7/2021**](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewadvanced)|
+|21343|[3/24/2021](https://blogs.windows.com/windows-insider/2021/03/24/announcing-windows-10-insider-preview-build-21343/)|||
+|21337|[3/17/2021](https://blogs.windows.com/windows-insider/2021/03/17/announcing-windows-10-insider-preview-build-21337/)|||
+|21332|[3/10/2021](https://blogs.windows.com/windows-insider/2021/03/10/announcing-windows-10-insider-preview-build-21332/)|||
+|21327|[3/3/2021](https://blogs.windows.com/windows-insider/2021/03/03/announcing-windows-10-insider-preview-build-21327/)|||
+|21322|[2/24/2021](https://blogs.windows.com/windows-insider/2021/02/24/announcing-windows-10-insider-preview-build-21322/)|||
+|21318|[2/19/2021](https://blogs.windows.com/windows-insider/2021/02/19/announcing-windows-10-insider-preview-build-21318/)|||
+|21313|[2/12/2021](https://blogs.windows.com/windows-insider/2021/02/12/announcing-windows-10-insider-preview-build-21313/)|||
+|21301|[1/27/2021](https://blogs.windows.com/windows-insider/2021/01/27/announcing-windows-10-insider-preview-build-21301/)|||
 |21296|[1/21/2021](https://blogs.windows.com/windows-insider/2021/01/21/announcing-windows-10-insider-preview-build-21296/)|||
 |21292|[1/13/2021](https://blogs.windows.com/windows-insider/2021/01/13/announcing-windows-10-insider-preview-build-21292/)|||
-|21286|[1/6/2021](https://blogs.windows.com/windows-insider/2021/01/06/announcing-windows-10-insider-preview-build-21286/)||[**1/6/2021**](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewadvanced)|
+|21286|[1/6/2021](https://blogs.windows.com/windows-insider/2021/01/06/announcing-windows-10-insider-preview-build-21286/)||[1/6/2021](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewadvanced)|
 |21277|[12/10/2020](https://blogs.windows.com/windows-insider/2020/12/10/announcing-windows-10-insider-preview-build-21277/)|||
 |20279|[12/14/2020](https://blogs.windows.com/windows-insider/2020/12/14/announcing-windows-10-insider-preview-build-20279/)|[**12/16/2020**](https://software-download.microsoft.com/download/sg/Windows_InsiderPreview_SDK_en-us_20279_1.iso)||
 |20277|[12/10/2020](https://blogs.windows.com/windows-insider/2020/12/03/announcing-windows-10-insider-preview-build-20270/)|[12/10/2020](https://software-download.microsoft.com/download/sg/Windows_InsiderPreview_SDK_en-us_20277_1.iso)||
@@ -77,16 +109,54 @@ Moving forward, the Dev Channel will receive builds directly from the active dev
 |19536|[12/16/2019](https://blogs.windows.com/windowsexperience/2019/12/16/announcing-windows-10-insider-preview-build-19536/)|||
 
 ##  Windows Experience Feature Pack Updates
-| Version | Beta |
-|------|------|
-|120.2212.2020.0|[**1/26/2021**](https://blogs.windows.com/windows-insider/2021/01/26/releasing-windows-feature-experience-pack-120-2212-2020-0-to-the-beta-channel/)
-|120.2212.1070.0|[11/30/2020](https://blogs.windows.com/windows-insider/2020/11/30/releasing-windows-feature-experience-pack-120-2212-1070-0-to-the-beta-channel/)
+| Version | Beta | Release Preview* |
+|------|------|------|
+|120.2212.3920.0|[**6/22/2021**](https://blogs.windows.com/windows-insider/2021/06/22/releasing-windows-feature-experience-pack-120-2212-3920-0-to-the-beta-release-preview-channels/)|[**6/22/2021**](https://blogs.windows.com/windows-insider/2021/06/22/releasing-windows-feature-experience-pack-120-2212-3920-0-to-the-beta-release-preview-channels/)
+|120.2212.3740.0|[4/28/2021](https://blogs.windows.com/windows-insider/2021/04/28/releasing-windows-feature-experience-pack-120-2212-3740-0-to-the-beta-release-preview-channels/)|[4/28/2021](https://blogs.windows.com/windows-insider/2021/04/28/releasing-windows-feature-experience-pack-120-2212-3740-0-to-the-beta-release-preview-channels/)
+|120.2212.3530.0|[3/25/2021](https://blogs.windows.com/windows-insider/2021/03/25/releasing-windows-feature-experience-pack-120-2212-3530-0-to-the-beta-release-preview-channels/)|[3/25/2021](https://blogs.windows.com/windows-insider/2021/03/25/releasing-windows-feature-experience-pack-120-2212-3530-0-to-the-beta-release-preview-channels/)
+|120.2212.3030.0|[2/23/2021](https://blogs.windows.com/windows-insider/2021/02/23/releasing-windows-feature-experience-pack-120-2212-3030-0-to-the-beta-channel/)|
+|120.2212.2020.0|[1/26/2021](https://blogs.windows.com/windows-insider/2021/01/26/releasing-windows-feature-experience-pack-120-2212-2020-0-to-the-beta-channel/)|
+|120.2212.1070.0|[11/30/2020](https://blogs.windows.com/windows-insider/2020/11/30/releasing-windows-feature-experience-pack-120-2212-1070-0-to-the-beta-channel/)|
 
-##  Windows 10 October 2020 Update (20H2)
+>[!NOTE]
+>*This update will NOT be offered to commercial devices in the Release Preview Channel. These devices are devices AAD-joined and/or running the Windows 10 Enterprise edition. These customers will get Windows Feature Experience Packs delivered through “C” Preview releases which then get rolled up into monthly “B” releases. This enables commercial customers to test all the non-security fixes and features that will be rolled up into the next monthly “B” release. See this blog post for the details on the existing servicing process for Windows 10.
+
+## Windows 10 May 2021 Update (21H1)
+
+The [final build for the May 2021 Update](https://blogs.windows.com/windows-insider/2021/04/28/preparing-the-windows-10-may-2021-update-for-release/) is Build 19043.928.
+
+| Build | Beta | Release Preview | ISO 
+|------|------|------|------|
+|19043.1147||[**7/15/2021**](https://blogs.windows.com/windows-insider/2021/07/15/releasing-windows-10-build-19043-1147-21h1-to-release-preview-channel/)|
+|19043.1081|[6/17/2021](https://blogs.windows.com/windows-insider/2021/06/17/releasing-windows-10-build-19043-1081-21h1-to-beta-release-preview-channels/)|[6/17/2021](https://blogs.windows.com/windows-insider/2021/06/17/releasing-windows-10-build-19043-1081-21h1-to-beta-release-preview-channels/)|
+|19043.1023|[5/21/2021](https://blogs.windows.com/windows-insider/2021/05/21/releasing-windows-10-build-19043-1023-21h1-to-beta-release-preview-channels/)|[5/21/2021](https://blogs.windows.com/windows-insider/2021/05/21/releasing-windows-10-build-19043-1023-21h1-to-beta-release-preview-channels/)|
+|19043.985|[5/11/2021](https://blogs.windows.com/windows-insider/2021/05/11/releasing-windows-10-build-19043-985-21h1-to-beta-release-preview-channels/)|[5/11/2021](https://blogs.windows.com/windows-insider/2021/05/11/releasing-windows-10-build-19043-985-21h1-to-beta-release-preview-channels/)|
+|19043.964|[4/28/2021](https://blogs.windows.com/windows-insider/2021/04/28/releasing-windows-10-build-19043-964-21h1-to-beta-channel-release-preview-channels/)|[4/28/2021](https://blogs.windows.com/windows-insider/2021/04/28/releasing-windows-10-build-19043-964-21h1-to-beta-channel-release-preview-channels/)|
+|19043.962|[4/19/2021](https://blogs.windows.com/windows-insider/2021/04/19/releasing-windows-10-build-19043-962-21h1-to-beta-channel-release-preview-channels/)|[4/19/2021](https://blogs.windows.com/windows-insider/2021/04/19/releasing-windows-10-build-19043-962-21h1-to-beta-channel-release-preview-channels/)|
+|19043.928|[4/13/2021](https://blogs.windows.com/windows-insider/2021/04/13/releasing-windows-10-build-19043-928-21h1-to-beta-release-preview-channels/)|[4/13/2021](https://blogs.windows.com/windows-insider/2021/04/13/releasing-windows-10-build-19043-928-21h1-to-beta-release-preview-channels/)|[**4/21/2021**](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
+|19043.906|[3/25/2021](https://blogs.windows.com/windows-insider/2021/03/25/releasing-windows-10-build-19043-906-21h1-to-beta-channel/)|[3/18/2021](https://blogs.windows.com/windows-insider/2021/03/25/releasing-windows-10-build-19043-906-21h1-to-beta-channel/)|
+|19043.899|[3/15/2021](https://blogs.windows.com/windows-insider/2021/03/15/releasing-windows-10-build-19043-899-21h1-to-beta-channel/)|[3/18/2021](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-10-version-21h1-for-commercial-pre-release-validation/ba-p/2220577)|3/18/2021
+|19043.867|[3/9/2021](https://blogs.windows.com/windows-insider/2021/03/09/releasing-windows-10-build-19043-867-21h1-to-beta-channel/)||
+|19043.844*|[2/17/2021](https://blogs.windows.com/windows-insider/2021/02/17/announcing-windows-10-insider-preview-build-19043-844-21h1/)||
+
+>[!NOTE]
+>*Only available to commercial customers in the Release Preview Channel [as described here in this blog post](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-10-version-21h1-for-commercial-pre-release-validation/ba-p/2220577).
+
+## Windows 10 October 2020 Update (20H2)
 | Build | Beta | Release Preview | WSUS | ISO |
 |-------|------|------|------|------|
-|19042.782|[**1/21/2021**](https://blogs.windows.com/windows-insider/2021/01/21/releasing-windows-10-build-19042-782-20h2-to-beta-and-release-preview-channels/)|[**1/21/2021**](https://blogs.windows.com/windows-insider/2021/01/21/releasing-windows-10-build-19042-782-20h2-to-beta-and-release-preview-channels/)||
-|19042.746|[1/12/2021](https://blogs.windows.com/windows-insider/2021/01/12/releasing-windows-10-build-19042-746-20h2-to-beta-and-release-preview-channels/)|[1/12/2021](https://blogs.windows.com/windows-insider/2021/01/12/releasing-windows-10-build-19042-746-20h2-to-beta-and-release-preview-channels/)|[**1/12/2021**](https://blogs.windows.com/windows-insider/2021/01/12/releasing-windows-10-build-19042-746-20h2-to-beta-and-release-preview-channels/)|
+|19042.1081||[**6/17/2021**](https://blogs.windows.com/windows-insider/2021/06/17/releasing-windows-10-build-19042-1081-20h2-to-release-preview-channel/)|
+|19042.1023||[5/21/2021](https://blogs.windows.com/windows-insider/2021/05/21/releasing-windows-10-build-19042-1023-20h2-to-release-preview-channel/)|
+|19042.964||[4/28/2021](https://support.microsoft.com/en-us/topic/april-28-2021-kb5001391-os-builds-19041-964-and-19042-964-preview-fc8959e2-f2a0-4223-b56b-0ad8d9b4f96c)|
+|19042.962||[4/19/2021](https://blogs.windows.com/windows-insider/2021/04/19/releasing-windows-10-build-19042-962-20h2-to-release-preview-channel/)|
+|19042.928||[4/13/2021](https://support.microsoft.com/en-us/topic/april-13-2021-kb5001330-os-builds-19041-928-and-19042-928-cead30cd-f284-4115-a42f-d67fec538490)|[**4/13/2021**](https://support.microsoft.com/en-us/topic/april-13-2021-kb5001330-os-builds-19041-928-and-19042-928-cead30cd-f284-4115-a42f-d67fec538490)
+|19042.906||[3/25/2021](https://blogs.windows.com/windows-insider/2021/03/25/releasing-windows-10-build-19042-906-20h2-to-release-preview-channel/)|
+|19042.867||[3/9/2021](https://support.microsoft.com/en-us/topic/march-9-2021-kb5000802-os-builds-19041-867-and-19042-867-63552d64-fe44-4132-8813-ef56d3626e14)|[3/9/2021](https://support.microsoft.com/en-us/topic/march-9-2021-kb5000802-os-builds-19041-867-and-19042-867-63552d64-fe44-4132-8813-ef56d3626e14)|
+|19042.844|[2/17/2021](https://blogs.windows.com/windows-insider/2021/02/17/releasing-windows-10-build-19042-844-20h2-to-beta-and-release-preview-channels/)|[2/17/2021](https://blogs.windows.com/windows-insider/2021/02/17/releasing-windows-10-build-19042-844-20h2-to-beta-and-release-preview-channels/)||
+|19042.804|[2/9/2021](https://blogs.windows.com/windows-insider/2021/02/09/releasing-windows-10-build-19042-804-20h2-to-beta-and-release-preview-channels/)|[2/9/2021](https://blogs.windows.com/windows-insider/2021/02/09/releasing-windows-10-build-19042-804-20h2-to-beta-and-release-preview-channels/)|[2/9/2021](https://blogs.windows.com/windows-insider/2021/02/09/releasing-windows-10-build-19042-804-20h2-to-beta-and-release-preview-channels/)|
+|19042.789|[2/2/2021](https://blogs.windows.com/windows-insider/2021/02/02/releasing-windows-10-build-19042-789-20h2-to-beta-and-release-preview-channels/)|[2/2/2021](https://blogs.windows.com/windows-insider/2021/02/02/releasing-windows-10-build-19042-789-20h2-to-beta-and-release-preview-channels/)||
+|19042.782|[1/21/2021](https://blogs.windows.com/windows-insider/2021/01/21/releasing-windows-10-build-19042-782-20h2-to-beta-and-release-preview-channels/)|[1/21/2021](https://blogs.windows.com/windows-insider/2021/01/21/releasing-windows-10-build-19042-782-20h2-to-beta-and-release-preview-channels/)||
+|19042.746|[1/12/2021](https://blogs.windows.com/windows-insider/2021/01/12/releasing-windows-10-build-19042-746-20h2-to-beta-and-release-preview-channels/)|[1/12/2021](https://blogs.windows.com/windows-insider/2021/01/12/releasing-windows-10-build-19042-746-20h2-to-beta-and-release-preview-channels/)|[1/12/2021](https://blogs.windows.com/windows-insider/2021/01/12/releasing-windows-10-build-19042-746-20h2-to-beta-and-release-preview-channels/)|
 |19042.685|[12/8/2020](https://blogs.windows.com/windows-insider/2020/12/08/announcing-windows-10-insider-preview-build-19042-685-20h2/)|[12/8/2020](https://blogs.windows.com/windows-insider/2020/12/08/announcing-windows-10-insider-preview-build-19042-685-20h2/)|[12/8/2020](https://blogs.windows.com/windows-insider/2020/12/08/announcing-windows-10-insider-preview-build-19042-685-20h2/)|
 |19042.662|[11/23/2020](https://blogs.windows.com/windows-insider/2020/11/23/announcing-windows-10-insider-preview-build-19042-662-20h2/)|[11/23/2020](https://blogs.windows.com/windows-insider/2020/11/23/announcing-windows-10-insider-preview-build-19042-662-20h2/)||
 |19042.630|[11/10/2020](https://blogs.windows.com/windows-insider/2020/11/10/announcing-windows-10-insider-preview-build-19042-630-20h2/)|[11/10/2020](https://blogs.windows.com/windows-insider/2020/11/10/announcing-windows-10-insider-preview-build-19042-630-20h2/)||
@@ -262,25 +332,25 @@ Windows 10, version 1809, and Windows Server 2019 were released to the world on 
 |17751|[8/31/2018](https://blogs.windows.com/windowsexperience/2018/08/31/announcing-windows-10-insider-preview-build-17751/)
 |17749||||||[9/4/2018](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewSDK)
 |17746|[8/24/2018](https://blogs.windows.com/windowsexperience/2018/08/24/announcing-windows-10-insider-preview-build-17746/)
-|17744|[8/21/2018](https://blogs.windows.com/windowsexperience/2018/08/21/announcing-windows-10-insider-preview-build-17744/)|[8/30/2018](https://blogs.windows.com/windowsexperience/2018/08/21/announcing-windows-10-insider-preview-build-17744/)|[__8/28/2018__](https://blogs.windows.com/windowsexperience/2018/08/28/announcing-windows-server-2019-insider-preview-build-17744/)|[**8/24/2018**](https://docs.microsoft.com/windows/iot-core/release-notes/insider/17744)|[9/4/2018](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewadvanced)|[8/28/2018](https://blogs.windows.com/buildingapps/2018/08/28/windows-10-sdk-preview-build-17744-available-now/)|
+|17744|[8/21/2018](https://blogs.windows.com/windowsexperience/2018/08/21/announcing-windows-10-insider-preview-build-17744/)|[8/30/2018](https://blogs.windows.com/windowsexperience/2018/08/21/announcing-windows-10-insider-preview-build-17744/)|[__8/28/2018__](https://blogs.windows.com/windowsexperience/2018/08/28/announcing-windows-server-2019-insider-preview-build-17744/)|[**8/24/2018**](/windows/iot-core/release-notes/insider/17744)|[9/4/2018](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewadvanced)|[8/28/2018](https://blogs.windows.com/buildingapps/2018/08/28/windows-10-sdk-preview-build-17744-available-now/)|
 |17741|[8/17/2018](https://blogs.windows.com/windowsexperience/2018/08/17/build17741/)|||||
 |17738|[8/14/2018](https://blogs.windows.com/windowsexperience/2018/08/14/announcing-windows-10-insider-preview-build-17738/)|[8/23/2018](https://blogs.windows.com/windowsexperience/2018/08/14/announcing-windows-10-insider-preview-build-17738/)|[8/21/2018](https://blogs.windows.com/windowsexperience/2018/08/21/announcing-windows-server-2019-insider-preview-build-17738/)||[8/28/2018](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewadvanced)|[8/21/2018](https://blogs.windows.com/buildingapps/2018/08/21/windows-10-sdk-preview-build-17738-available-now/)
 |17735|[8/10/2018](https://blogs.windows.com/windowsexperience/2018/08/10/announcing-windows-10-insider-preview-build-17735/)|
 |17733 | [8/08/2018](https://blogs.windows.com/windowsexperience/2018/08/08/announcing-windows-10-insider-preview-build-17733/)||[8/14/2018](https://blogs.windows.com/windowsexperience/2018/08/14/announcing-windows-server-2019-insider-preview-build-17733/)|||[8/14/2018](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewSDK)
 |17730 | [8/03/2018](https://blogs.windows.com/windowsexperience/2018/08/03/announcing-windows-10-insider-preview-build-17730/)
 |17728| [7/31/2018](https://aka.ms/gul-dukat)
-|17723|[7/25/2018](https://aka.ms/for-kevin)||[7/31/2018](https://blogs.windows.com/windowsexperience/2018/07/31/announcing-windows-server-2019-insider-preview-build-17723)|[8/24/2018](https://docs.microsoft.com/windows/iot-core/release-notes/insider/17723)||[7/31/2018](https://blogs.windows.com/buildingapps/2018/07/31/windows-10-sdk-preview-build-17723-available-now/)
+|17723|[7/25/2018](https://aka.ms/for-kevin)||[7/31/2018](https://blogs.windows.com/windowsexperience/2018/07/31/announcing-windows-server-2019-insider-preview-build-17723)|[8/24/2018](/windows/iot-core/release-notes/insider/17723)||[7/31/2018](https://blogs.windows.com/buildingapps/2018/07/31/windows-10-sdk-preview-build-17723-available-now/)
 |17713|[7/11/2018](https://blogs.windows.com/windowsexperience/2018/07/11/announcing-windows-10-insider-preview-build-17713/)|[7/26/2018](https://blogs.windows.com/windowsexperience/2018/07/11/announcing-windows-10-insider-preview-build-17713/)|[7/17/2018](https://blogs.windows.com/windowsexperience/2018/07/17/announcing-windows-server-2019-insider-preview-build-17713/)||[7/31/2018](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewadvanced)|[7/17/2018](https://blogs.windows.com/buildingapps/2018/07/17/windows-10-sdk-preview-build-17713-available-now/)|
 |17711 |[7/06/2018](https://blogs.windows.com/windowsexperience/2018/07/06/announcing-windows-10-insider-preview-build-17711/)||||||
 | 17709|||[7/10/2018](https://blogs.windows.com/windowsexperience/2018/07/10/announcing-windows-server-2019-insider-preview-build-17709/)|||[7/10/2018](https://blogs.windows.com/buildingapps/2018/07/10/windows-10-sdk-preview-build-17709-available-now/)|
 | 17704 | [6/27/2018](https://aka.ms/jasons-build)|||||[7/03/2018](https://blogs.windows.com/buildingapps/2018/07/03/windows-10-sdk-preview-build-17704-available-now/)|
-| 17692 | [6/14/2018](https://blogs.windows.com/windowsexperience/2018/06/14/announcing-windows-10-insider-preview-build-17692/)|[7/2/2018](https://blogs.windows.com/windowsexperience/2018/06/14/announcing-windows-10-insider-preview-build-17692/)|[6/19/2018](https://aka.ms/wipserver17692)|[6/15/2018](https://docs.microsoft.com/windows/iot-core/release-notes/insider/17692)||[6/19/2018](https://blogs.windows.com/buildingapps/2018/06/19/windows-10-sdk-preview-build-17692-available-now/)
-| 17686 | [6/06/2018](https://aka.ms/jumanji)|||[5/22/2018](https://docs.microsoft.com/windows/iot-core/release-notes/insider/17686)||[6/12/2018](https://blogs.windows.com/buildingapps/2018/06/12/windows-10-sdk-preview-build-17686-available-now/)
+| 17692 | [6/14/2018](https://blogs.windows.com/windowsexperience/2018/06/14/announcing-windows-10-insider-preview-build-17692/)|[7/2/2018](https://blogs.windows.com/windowsexperience/2018/06/14/announcing-windows-10-insider-preview-build-17692/)|[6/19/2018](https://aka.ms/wipserver17692)|[6/15/2018](/windows/iot-core/release-notes/insider/17692)||[6/19/2018](https://blogs.windows.com/buildingapps/2018/06/19/windows-10-sdk-preview-build-17692-available-now/)
+| 17686 | [6/06/2018](https://aka.ms/jumanji)|||[5/22/2018](/windows/iot-core/release-notes/insider/17686)||[6/12/2018](https://blogs.windows.com/buildingapps/2018/06/12/windows-10-sdk-preview-build-17686-available-now/)
 | 17682 | [5/31/2018](https://aka.ms/hulkbuster)|||||[6/05/2018](https://blogs.windows.com/buildingapps/2018/06/05/windows-10-sdk-preview-build-17682-available-now/)
 | 17677 | [5/24/2018](https://aka.ms/we-are-groot) | | [5/29/2018](https://aka.ms/wipserver17677)| | | [5/29/2018](https://blogs.windows.com/buildingapps/2018/05/29/windows-10-sdk-preview-build-17677-available-now/)
-| 17672 | [5/16/2018](https://blogs.windows.com/windowsexperience/2018/05/16/announcing-windows-10-insider-preview-build-17672/) | | |[5/22/2018](https://docs.microsoft.com/windows/iot-core/release-notes/insider/17672) | | [5/22/2018](https://blogs.windows.com/buildingapps/2018/05/22/windows-10-sdk-preview-build-17672-available-now/)
+| 17672 | [5/16/2018](https://blogs.windows.com/windowsexperience/2018/05/16/announcing-windows-10-insider-preview-build-17672/) | | |[5/22/2018](/windows/iot-core/release-notes/insider/17672) | | [5/22/2018](https://blogs.windows.com/buildingapps/2018/05/22/windows-10-sdk-preview-build-17672-available-now/)
 | 17666 | [5/09/2018](https://blogs.windows.com/windowsexperience/2018/05/09/announcing-windows-10-insider-preview-build-17666/)| | [5/15/2018](https://blogs.windows.com/windowsexperience/2018/05/15/announcing-windows-server-2019-insider-preview-build-17666/) | | | [5/15/2018](https://blogs.windows.com/buildingapps/2018/05/15/windows-10-sdk-preview-build-17666-now-available/)
-| 17661 | [5/03/2018](https://blogs.windows.com/windowsexperience/2018/05/03/announcing-windows-10-insider-preview-build-17661/)| | | [5/7/2018](https://docs.microsoft.com/windows/iot-core/release-notes/insider/17661) | |[5/08/2018](https://blogs.windows.com/buildingapps/2018/05/08/windows-10-sdk-preview-build-17661-now-available/)
+| 17661 | [5/03/2018](https://blogs.windows.com/windowsexperience/2018/05/03/announcing-windows-10-insider-preview-build-17661/)| | | [5/7/2018](/windows/iot-core/release-notes/insider/17661) | |[5/08/2018](https://blogs.windows.com/buildingapps/2018/05/08/windows-10-sdk-preview-build-17661-now-available/)
 | 17655 | [4/25/2018*](https://blogs.windows.com/windowsexperience/2018/04/25/announcing-windows-10-insider-preview-build-17655-for-skip-ahead/)
 | 17650 | [4/20/2018*](https://blogs.windows.com/windowsexperience/2018/04/19/announcing-windows-10-insider-preview-build-17650-for-skip-ahead/) |
 | 17643 | [4/12/2018*](https://blogs.windows.com/windowsexperience/2018/04/12/announcing-windows-10-insider-preview-build-17643-for-skip-ahead/)
