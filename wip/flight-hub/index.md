@@ -42,7 +42,7 @@ Welcome to Flight Hub! Use this dashboard to quickly identify the latest Windows
 |27686|[8/15/2024](https://blogs.windows.com/windows-insider/2024/08/15/announcing-windows-11-insider-preview-build-27868-canary-channel/)||
 
 ## Windows 11 2024 Update (24H2)
-Preview builds for Windows 11, version 24H2.
+Preview builds for Windows 11, version 24H2 (Build 26100).
 
 > [!IMPORTANT]
 >*These builds are delivered on top of Windows 11, version 24H2 (Build 26100) with an enablement package that increments the build number to Build 26200 for the Dev Channel and Build 26120 for the Beta Channel.
@@ -51,7 +51,7 @@ Preview builds for Windows 11, version 24H2.
 |---|---|---|---|---|---|---|
 |26200.5510*||[**3/28/2025**](https://blogs.windows.com/windows-insider/2025/03/28/announcing-windows-11-insider-preview-build-26200-5516-dev-channel/)| | | | |
 |26200.5510*||[3/24/2025](https://blogs.windows.com/windows-insider/2025/03/24/announcing-windows-11-insider-preview-build-26200-5510-dev-channel/)| | | | |
-|26120.3653*|||[**3/24/2025**](https://blogs.windows.com/windows-insider/2025/03/28/announcing-windows-11-insider-preview-build-26120-3653-beta-channel/) | | |
+|26120.3653*|||[**3/28/2025**](https://blogs.windows.com/windows-insider/2025/03/28/announcing-windows-11-insider-preview-build-26120-3653-beta-channel/) | | |
 |26100.3624| | | |[**3/24/2025**](https://blogs.windows.com/windows-insider/2025/03/24/releasing-windows-11-build-26100-3624-to-the-release-preview-channel/) | |
 |26100.3613| | | |[3/18/2025](https://blogs.windows.com/windows-insider/2025/03/18/releasing-windows-11-build-26100-3613-to-the-release-preview-channel/) | |
 |26120.3585*|||[3/24/2025](https://blogs.windows.com/windows-insider/2025/03/24/announcing-windows-11-insider-preview-build-26120-3585-beta-channel/) | | |
