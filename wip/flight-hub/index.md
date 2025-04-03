@@ -49,9 +49,11 @@ Preview builds for Windows 11, version 24H2 (Build 26100).
 
 | Build | Canary | Dev | Beta | RP | SDK | ISO |
 |---|---|---|---|---|---|---|
-|26200.5510*||[**3/28/2025**](https://blogs.windows.com/windows-insider/2025/03/28/announcing-windows-11-insider-preview-build-26200-5516-dev-channel/)| | | | |
+|26200.5518*||[**4/3/2025**](https://blogs.windows.com/windows-insider/2025/04/03/announcing-windows-11-insider-preview-build-26200-5518-dev-channel-2/)| | | | |
+|26200.5516*||[3/28/2025](https://blogs.windows.com/windows-insider/2025/03/28/announcing-windows-11-insider-preview-build-26200-5516-dev-channel/)| | | | |
 |26200.5510*||[3/24/2025](https://blogs.windows.com/windows-insider/2025/03/24/announcing-windows-11-insider-preview-build-26200-5510-dev-channel/)| | | | |
-|26120.3653*|||[**3/28/2025**](https://blogs.windows.com/windows-insider/2025/03/28/announcing-windows-11-insider-preview-build-26120-3653-beta-channel/) | | |
+|26120.3671*|||[**4/3/2025**](https://blogs.windows.com/windows-insider/2025/04/03/announcing-windows-11-insider-preview-build-26120-3671-beta-channel/) | | |
+|26120.3653*|||[3/28/2025](https://blogs.windows.com/windows-insider/2025/03/28/announcing-windows-11-insider-preview-build-26120-3653-beta-channel/) | | |
 |26100.3624| | | |[**3/24/2025**](https://blogs.windows.com/windows-insider/2025/03/24/releasing-windows-11-build-26100-3624-to-the-release-preview-channel/) | |
 |26100.3613| | | |[3/18/2025](https://blogs.windows.com/windows-insider/2025/03/18/releasing-windows-11-build-26100-3613-to-the-release-preview-channel/) | |
 |26120.3585*|||[3/24/2025](https://blogs.windows.com/windows-insider/2025/03/24/announcing-windows-11-insider-preview-build-26120-3585-beta-channel/) | | |
@@ -180,8 +182,9 @@ Preview builds for updates to Windows 11, version 23H2 (Build 22631).
 
 | Build | Beta | RP |
 |---|---|---|
+|22635.5160*|[**3/31/2025**](https://blogs.windows.com/windows-insider/2025/03/31/announcing-windows-11-insider-preview-build-22635-5160-beta-channel/)|
 |22631.5116| |[**3/13/2025**](https://blogs.windows.com/windows-insider/2025/03/13/releasing-windows-11-build-22631-5116-to-the-release-preview-channel/)|
-|22635.5097*|[**3/21/2025**](https://blogs.windows.com/windows-insider/2025/03/21/announcing-windows-11-insider-preview-build-22635-5097-beta-channel/)|
+|22635.5097*|[3/21/2025](https://blogs.windows.com/windows-insider/2025/03/21/announcing-windows-11-insider-preview-build-22635-5097-beta-channel/)|
 |22635.5090*|[3/17/2025](https://blogs.windows.com/windows-insider/2025/03/17/announcing-windows-11-insider-preview-build-22635-5090-beta-channel/)|
 |22635.5025*|[3/7/2025](https://blogs.windows.com/windows-insider/2025/03/07/announcing-windows-11-insider-preview-build-22635-5025-beta-channel/)|
 |22635.5015*|[2/28/2025](https://blogs.windows.com/windows-insider/2025/02/28/announcing-windows-11-insider-preview-build-22635-5015-beta-channel/)|
