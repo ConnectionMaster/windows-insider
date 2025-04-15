@@ -185,10 +185,11 @@ Preview builds for updates to Windows 11, version 23H2 (Build 22631).
 
 | Build | Beta | RP |
 |---|---|---|
+|22631.5261| |[**4/15/2025**](https://blogs.windows.com/windows-insider/2025/04/15/releasing-windows-11-build-22631-5261-to-the-release-preview-channel/)|
 |22635.5235*|[**4/14/2025**](https://blogs.windows.com/windows-insider/2025/04/14/announcing-windows-11-insider-preview-build-22635-5235-beta-channel/)|
 |22635.5170*|[4/7/2025](https://blogs.windows.com/windows-insider/2025/04/07/announcing-windows-11-insider-preview-build-22635-5170-beta-channel/)|
 |22635.5160*|[3/31/2025](https://blogs.windows.com/windows-insider/2025/03/31/announcing-windows-11-insider-preview-build-22635-5160-beta-channel/)|
-|22631.5116| |[**3/13/2025**](https://blogs.windows.com/windows-insider/2025/03/13/releasing-windows-11-build-22631-5116-to-the-release-preview-channel/)|
+|22631.5116| |[3/13/2025](https://blogs.windows.com/windows-insider/2025/03/13/releasing-windows-11-build-22631-5116-to-the-release-preview-channel/)|
 |22635.5097*|[3/21/2025](https://blogs.windows.com/windows-insider/2025/03/21/announcing-windows-11-insider-preview-build-22635-5097-beta-channel/)|
 |22635.5090*|[3/17/2025](https://blogs.windows.com/windows-insider/2025/03/17/announcing-windows-11-insider-preview-build-22635-5090-beta-channel/)|
 |22635.5025*|[3/7/2025](https://blogs.windows.com/windows-insider/2025/03/07/announcing-windows-11-insider-preview-build-22635-5025-beta-channel/)|
