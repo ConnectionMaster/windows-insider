@@ -16,7 +16,7 @@ metadata:
   author: lizap #Required; your GitHub user alias, with correct capitalization.
   ms.author: apexprodleads #Required; microsoft alias of author; optional team alias.
   ms.date: 04/17/2018 #Required; mm/dd/yyyy format.
-  localization_priority: medium
+  ms.localizationpriority: medium
     
 # productDirectory section (optional)
 productDirectory:
