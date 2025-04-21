@@ -8,8 +8,8 @@ ms.tgt_pltfrm: na
 
 ms.author: allieshields
 ms.localizationpriority: medium
-ms.topic: article
-ms.service: windows-10
+ms.topic: whats-new
+ms.service: windows-insider
 ---
 
 # What was new in 20H1 Windows 10 Insider Preview Builds
@@ -503,7 +503,7 @@ In order to address this, we’ve begun rolling out a few changes, including:
 
 ![Manage your notifications settings is now just one click away in the Action Center.](images/18932-7.png)
 
-5. Finally, ever dismissed a notification you wanted to disable, and went to Notification & Actions Settings only to find the list of notification senders to be really really long? You can now sort the list by which apps most recently sent notifications.
+5. Finally, ever dismissed a notification you wanted to disable, and went to Notification & Actions Settings only to find the list of notification senders to be really, really long? You can now sort the list by which apps most recently sent notifications.
 
 ![Most recent filter in notification settings to make it easier to adjust what you've seen recently.](images/18932-8.png)
 

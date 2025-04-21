@@ -8,13 +8,13 @@ ms.tgt_pltfrm: na
 
 ms.author: allieshields
 ms.localizationpriority: medium
-ms.topic: article
-ms.service: windows-10
+ms.topic: whats-new
+ms.service: windows-insider
 ---
 
 # Sticky Notes 
 
-The latest major updates and features for Sticky Notes. Let us know what you think in the [Feedback Hub](https://aka.ms/WIPFeedbackHub) by choosing **Apps** > **Sticky Notes** under **Category** when filing feeback.
+The latest major updates and features for Sticky Notes. Let us know what you think in the [Feedback Hub](https://aka.ms/WIPFeedbackHub) by choosing **Apps** > **Sticky Notes** under **Category** when filing feedback.
 
 ## August 7, 2019
 

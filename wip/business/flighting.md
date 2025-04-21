@@ -8,8 +8,8 @@ ms.tgt_pltfrm: na
 
 ms.author: allieshields
 ms.localizationpriority: medium
-ms.topic: article
-ms.service: windows-10
+ms.topic: how-to
+ms.service: windows-insider
 ---
 
 # Start flighting as a business

@@ -8,8 +8,8 @@ ms.tgt_pltfrm: na
 
 ms.author: allieshields
 ms.localizationpriority: medium
-ms.topic: article
-ms.service: windows-10
+ms.topic: get-started
+ms.service: windows-insider
 ---
 
 # Get started with the Windows Insider Program for Developers

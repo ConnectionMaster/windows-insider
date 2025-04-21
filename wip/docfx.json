@@ -46,8 +46,8 @@
       "feedback_system": "None",
       "contributors_to_exclude": [
         "dstrome2",
-        "rjagiewich",  
-        "American-Dipper",
+        "rjagiewich",
+        "American-Dipper",  
         "claydetels19", 
         "jborsecnik",
         "v-stchambers",
@@ -55,7 +55,11 @@
         "Stacyrch140",
         "garycentric",
         "dstrome",
-        "beccarobins"
+        "beccarobins",
+	      "padmagit77",
+	      "aditisrivastava07",
+        "Ruchika-mittal01"      
+
       ],
       "_op_documentIdPathDepotMapping": {
 	 "./": {
